@@ -5,7 +5,7 @@ Google recently published both a very exciting paper and source code for a newly
 
 [1] Mingxing Tan and Quoc V. Le. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. ICML 2019. Arxiv link: https://arxiv.org/abs/1905.11946.
 
-CactiNet in a CNN modeled after EfficentNet with changes in no of 'mobile inverted bottleneck convolutional' layers and parameter values to identify aerial images of cactus. 
+CactiNet in a CNN modeled after EfficentNet with changes in no of 'mobile inverted bottleneck convolutional' layers and parameter values to identify aerial images of columnar cactus. 
 
 ## EfficientNet
 
@@ -56,4 +56,11 @@ The idea proposed by https://arxiv.org/abs/1312.6034 is to back-prop the output 
 Fitting data on Google's EfficientNet models
 https://github.com/PotatoSpudowski/CactiNet/blob/master/Aerial_Cactus_Identification_using_transfer_learning.ipynb
 
+## Important Links
+
+* EfficientNet Paper: https://arxiv.org/abs/1905.11946
+* MnasNet: https://arxiv.org/pdf/1807.11626.pdf
+* Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps 
+https://arxiv.org/abs/1312.6034
+* Kaggle data: https://www.kaggle.com/c/aerial-cactus-identification
 
