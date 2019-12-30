@@ -42,7 +42,7 @@ For the complete notebook related to modeling CactiNet check https://github.com/
 
 Visualizing the weights of the first conv layer
 
-![conv](https://github.com/PotatoSpudowski/CactiNet/blob/master/Images/dataconvweight.png)
+![conv](https://github.com/PotatoSpudowski/CactiNet/blob/master/Images/convweight.png)
 
 ### Saliency Map
 
